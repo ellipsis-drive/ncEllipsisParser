@@ -12,7 +12,7 @@ setuptools.setup(
     description="Package to parse a netCDF to an Ellipsis Drive data structure",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ellipsis-drive-internal/python-package",
+    url="https://github.com/ellipsis-drive/ncEllipsisParser",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

@@ -13,8 +13,6 @@ usualXSuspects = ['xc', 'longitude', 'lat']
 usualYSuspects = ['yc', 'latitude', 'lon']
 
 
-token = el.account.logIn('daan', 'Brooksrange24')
-parseNetCDF(file, token, epsg = 4326, folderId = None)
 
 
 def parseNetCDF(file, token, epsg = 4326, folderId = None):
